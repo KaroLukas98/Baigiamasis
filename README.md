@@ -12,7 +12,7 @@ Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurią galite žaisti su
 
 ## Žingsniai kaip pasileisti projektą
 
-1. Atsisiųskite visus failus iš šio repozitorijos.
+1. Atsisiųskite visus failus iš šios repozitorijos.
 2. Turėkite įdiegtą Python 3 interpretatorių.
 3. Atsidarykite terminalą ir pereikite į projekto direktoriją.
 4. Įveskite komandą `python main.py`, kad paleistumėte žaidimą.
@@ -21,7 +21,7 @@ Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurią galite žaisti su
 Arba
 
 1. Atsisiųskite visus failus iš šios repozitorijos.
-2. Du kartus paspauskite ant `Zaidimas.exe` failo, kad paleistumėte žaidimą.
+2. Du kartus paspauskite ant `zaidimas.exe` failo, kad paleistumėte žaidimą.
 3. Paspaude ant Meniu galite pasirinkiti kitą žaidimo režimą (žaisti prieš kompiuterį).
 
 
@@ -29,5 +29,7 @@ Arba
 ## Autoriaus kontaktai
 
 Karolis Vasiliauskas
+
 el.paštas: liuutauras@gmail.com    
-GitHub:
+
+GitHub:https://github.com/KaroLukas98
