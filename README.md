@@ -1,6 +1,6 @@
 # TIC-TAC-TOE Žaidimas
 
-Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurią galite žaisti su kitu žmogumi arba prieš kompiuterį.
+Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurį galite žaisti su kitu žmogum.
 
 ## Kaip veikia projektas
 
@@ -12,15 +12,15 @@ Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurią galite žaisti su
 
 ## Žingsniai kaip pasileisti projektą
 
-1. Atsisiųskite visus failus iš šios repozitorijos.
-2. Turėkite įdiegtą Python 3 interpretatorių.
+1. Atsisiųskite visus failus iš Githubo.
+2. Turėkite įdiegtą Python 3.
 3. Atsidarykite terminalą ir pereikite į projekto direktoriją.
-4. Įveskite komandą `python main.py`, kad paleistumėte žaidimą.
+4. Paspauskite komandą `python Zaidimas.py`, kad paleistumėte žaidimą.
 5. Pasirinkite norimą žaidimo režimą (žaisti su kitu žmogumi arba prieš kompiuterį).
 
 Arba
 
-1. Atsisiųskite visus failus iš šios repozitorijos.
+1. Atsisiųskite visus failus iš Githubo.
 2. Du kartus paspauskite ant `zaidimas.exe` failo, kad paleistumėte žaidimą.
 3. Paspaude ant Meniu galite pasirinkiti kitą žaidimo režimą (žaisti prieš kompiuterį).
 
