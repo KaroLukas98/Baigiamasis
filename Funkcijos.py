@@ -48,12 +48,6 @@ class TicTacToeGame:
         self.computer_playing = True
         self.computer_move()
 
-    def start_human_game(self):
-        self.computer_playing = False
-        self.reset_game()
-        self.player = self.players[0]
-        self.label.config(text=self.player + " eilė")
-
     def reset_game(self):
         for row in range(3):
             for column in range(3):
