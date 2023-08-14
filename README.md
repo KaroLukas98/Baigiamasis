@@ -15,8 +15,8 @@ Tai yra paprastas "Tic-Tac-Toe" žaidimas su 3x3 lenta, kurį galite žaisti su 
 1. Atsisiųskite visus failus iš Githubo.
 2. Turėkite įdiegtą Python 3.
 3. Atsidarykite terminalą ir pereikite į projekto direktoriją.
-4. Paspauskite komandą `python Zaidimas.py`, kad paleistumėte žaidimą.
-5. Pasirinkite norimą žaidimo režimą (žaisti su kitu žmogumi arba prieš kompiuterį).
+4. Paspauskite zalia mygtuką `Zaidimas.py`, kad paleistumėte žaidimą.
+5. Norint pasirinkti kitą žaidimo funkcionaluma užeiname i meniu ir spaudžiam 'žaisti prieš kompiuteri'
 
 Arba
 
